@@ -1,2 +1,4 @@
 index old.js
 options.json
+package-lock.json
+node_modules
